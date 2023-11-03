@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity"
+    >
+
+    <EditText
+        android:id="@+id/valeur1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Valeur 1"
+        android:layout_margin="20sp"
+        android:inputType="number"
+        />
+
+    <EditText
+        android:id="@+id/valeur2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Valeur 2"
+        android:layout_margin="20sp"
+        android:inputType="number"
+        />
+
+
+
+    <Button
+        android:id="@+id/btnSomme"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:backgroundTint="@color/colorApp"
+        android:layout_gravity="center"
+        android:text="Somme"/>
+
+    <TextView
+        android:id="@+id/result"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="Result"
+        android:textSize="30sp"
+        android:layout_marginTop="20sp"
+        android:textColor="@color/colorApp"
+        android:fontFamily="@font/pacifico"/>
+
+</LinearLayout>
+

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "500743860828",
+    "firebase_url": "https://formationgroupe3-17445-default-rtdb.firebaseio.com",
+    "project_id": "formationgroupe3-17445",
+    "storage_bucket": "formationgroupe3-17445.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:500743860828:android:dabe8dc1707113d61eec99",
+        "android_client_info": {
+          "package_name": "com.example.formationgroupe3oct"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "500743860828-ta2dlc6r4013qopu0bui8g7jsln99md7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWBgl3qNJtAFj9DI6JDxRaKFrjYwEKHTg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "500743860828-ta2dlc6r4013qopu0bui8g7jsln99md7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
